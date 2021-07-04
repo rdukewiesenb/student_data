@@ -1,0 +1,1 @@
+This README will explain why the CSV files are available with minimal cleaning, as well as how the data was collected.
